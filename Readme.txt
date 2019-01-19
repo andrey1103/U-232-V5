@@ -117,7 +117,7 @@ Mysql 5.5.50-0
 
 	Use the following commands to install the C++ dependencies on Debian. The g++ version should be at least 4.7.
 
-		apt-get install cmake g++ libboost-dev libmysqlclient-dev make subversion zlib1g-dev
+		apt-get install cmake g++ libboost-dev default-libmysqlclient-dev make subversion zlib1g-dev
 
 	Use the following commands to install some of the C++ dependencies on CentOS, Fedora Core and Red Hat. The g++ version should be at least 4.7.
 
